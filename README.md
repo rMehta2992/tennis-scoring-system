@@ -7,7 +7,7 @@ This project is a tennis scoring system developed in TypeScript. The system simu
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/rMehta2992/tennis-match.git
+    git clone https://github.com/rMehta2992/tennis-scoring-system.git
     cd tennis-match
     ```
 
